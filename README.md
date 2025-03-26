@@ -1,6 +1,7 @@
 # Data Engineer | Tu Nombre
 
-![Databricks Logo]([https://credentials.databricks.com/3474551f-a4a5-4cef-b2c3-1a4cce416240#acc.LOrunD2P](https://github.com/jason2893/jason2893/blob/main/assets/Fundamentarls_ia.png))
+![Databricks Generative AI Fundamentals](https://raw.githubusercontent.com/jason2893/jason2893/main/assets/Fundamentals_ia.png)
+
 
 ## Sobre mí
 Soy un apasionado Data Engineer con experiencia en procesamiento de datos a gran escala, pipelines ETL y optimización de bases de datos.
